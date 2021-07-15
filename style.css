@@ -1,0 +1,21 @@
+* {
+    color: rgb(32, 197, 74);
+    background-color: blueviolet;
+    border: coral;
+}
+.hello {
+    color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    background-color: darkred;
+}
+.boop {
+    display: flex;
+    justify-content: center;
+    background-color: darkred;
+}
+.name {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
