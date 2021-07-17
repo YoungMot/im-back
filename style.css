@@ -1,21 +1,25 @@
 * {
-    color: rgb(32, 197, 74);
-    background-color: blueviolet;
-    border: coral;
+    color: rgb(23, 9, 218);
+    background-color: rgb(255, 0, 0);
+    border: rgb(0, 0, 0);
 }
 .hello {
-    color: rebeccapurple;
     display: flex;
     justify-content: center;
-    background-color: darkred;
+    background-color: rgb(6, 239, 247);
 }
 .boop {
     display: flex;
     justify-content: center;
-    background-color: darkred;
+    background-color: rgb(6, 239, 247);
 }
 .name {
     display: flex;
     justify-content: center;
-    background-color: white;
+    background-color: rgb(6, 239, 247);
+}
+.btn {
+    display: flex;
+    justify-content: right;
+
 }
